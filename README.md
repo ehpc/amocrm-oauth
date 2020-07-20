@@ -1,4 +1,4 @@
-# AmoCRM integration libs
+# AmoCRM Integration Libs
 
 Здесь представлен сборник библиотек для интеграции с AmoCRM через OAuth.
 
